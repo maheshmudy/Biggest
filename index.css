@@ -1,0 +1,39 @@
+body{
+    background-color: aqua;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+table{
+    margin: auto;
+    border: solid 2px blue;
+}
+td{
+    padding: 15px;
+}
+button{
+    width: 100%;
+    height: 40px;
+    font-weight: 700;
+    font-size: 15px;
+    border-radius: 10px;
+    color: blue;
+    background: whitesmoke;
+}
+#btn:hover{
+    color: white;
+    background: green;
+    border: none;
+}
+input{
+    height: 33px;
+    width: 100%;
+
+}
+p{
+    text-align: center;
+    
+    font-style: italic;
+    font-size: 25px;
+}
+h2{
+    text-align: center;
+}
